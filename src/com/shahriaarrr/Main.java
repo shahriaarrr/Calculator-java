@@ -1,8 +1,11 @@
 package com.shahriaarrr;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    int a, b;
+	    Scanner in = new Scanner(System.in);
     }
 }
