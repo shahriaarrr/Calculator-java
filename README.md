@@ -1,5 +1,5 @@
 # Calculator-java
-a little calculator with java
+Note:
 
 1.With this program you can perform all four basic operations of mathematics in addition to obtaining the remainder of a division on two integers.
 
