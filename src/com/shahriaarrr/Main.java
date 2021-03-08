@@ -13,5 +13,8 @@ public class Main {
 
         System.out.print("give me your second number: ");
         b = in.nextInt();
+
+        System.out.println(a);
+        System.out.println(b);
     }
 }
